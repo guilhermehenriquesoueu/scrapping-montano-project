@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "MontanoProject OpenTabs",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "background": {
+    "scripts": ["OpenTabs.js"]
+  }
+}

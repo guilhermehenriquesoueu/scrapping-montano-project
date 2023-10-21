@@ -1,0 +1,22 @@
+POST http://localhost:3000/url
+Content-Type: application/json
+
+{
+  "url": "https://www.reddit.com/r/AskProgramming/"
+}
+
+###
+GET http://localhost:3000/url
+
+
+####
+GET http://localhost:3000/ask
+
+###
+
+DELETE http://localhost:3000/url
+Content-Type: application/json
+
+{
+  "url": "https://www.reddit.com/r/AskProgramming/"
+}
