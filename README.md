@@ -5,7 +5,7 @@
 
 Alternativa de scrapping criada com JS de forma básica para demonstrar o conceito da solução.
 
-Video Youtube: https://www.youtube.com/watch?v=bVaTVq8pSmc&t=122s
+Video Youtube: https://www.youtube.com/watch?v=bVaTVq8pSmc
 
 ## Como Rodar a Aplicação
 
