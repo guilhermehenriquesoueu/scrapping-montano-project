@@ -1,5 +1,5 @@
 ![Logo da MontanoProject](https://i.ibb.co/tKZwp6s/header.png)
-![Design script](https://i.ibb.co/23rZx6G/Extens-es-1.png)
+![Design script](https://i.ibb.co/X2FMX3W/Extens-es.png)
 
 ## Descrição
 
