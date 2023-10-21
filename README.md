@@ -1,7 +1,7 @@
 ![Logo da MontanoProject](https://i.ibb.co/tKZwp6s/header.png)
 ![Design script](https://i.ibb.co/23rZx6G/Extens-es-1.png)
 
-## Introdução
+## Descrição
 
 Alternativa de scrapping criada com JS de forma básica para demonstrar o conceito da solução.
 
